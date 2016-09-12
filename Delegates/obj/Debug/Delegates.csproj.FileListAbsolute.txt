@@ -1,0 +1,12 @@
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Drama\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Drama\Desktop\devcodecampprojects\Delegates\Delegates\obj\Debug\Delegates.pdb
